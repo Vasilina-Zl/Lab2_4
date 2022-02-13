@@ -1,0 +1,15 @@
+D:\proj\Labor2_4\bin\Debug\net6.0\Labor2_4.exe
+D:\proj\Labor2_4\bin\Debug\net6.0\Labor2_4.deps.json
+D:\proj\Labor2_4\bin\Debug\net6.0\Labor2_4.runtimeconfig.json
+D:\proj\Labor2_4\bin\Debug\net6.0\Labor2_4.dll
+D:\proj\Labor2_4\bin\Debug\net6.0\ref\Labor2_4.dll
+D:\proj\Labor2_4\bin\Debug\net6.0\Labor2_4.pdb
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.csproj.AssemblyReference.cache
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.AssemblyInfoInputs.cache
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.AssemblyInfo.cs
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.csproj.CoreCompileInputs.cache
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.dll
+D:\proj\Labor2_4\obj\Debug\net6.0\ref\Labor2_4.dll
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.pdb
+D:\proj\Labor2_4\obj\Debug\net6.0\Labor2_4.genruntimeconfig.cache
